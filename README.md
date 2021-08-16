@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hola!
 
-<!--
-**lifrancucci/lifrancucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es **Li Francucci**.
 
-Here are some ideas to get you started:
+Desarrollo sitios web interactivos pensados para artistas de diversos rubros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Combino _programación creativa, diseño responsivo, y música experimental_ para generar experiencias audiovisuales originales.
+
+
+[**Podés ver mi portfolio aquí**](https://lifrancucci.github.io).
+
+## Hello!
+
+My name is **Li Francucci**.
+
+I develop interactive web-sites for artists of various fields.
+
+I combine _creative programming, responsive design, and experimental music_ to generate original audiovisual experiences.
+
+[**You can checkout my portfolio here**](https://lifrancucci.github.io).
