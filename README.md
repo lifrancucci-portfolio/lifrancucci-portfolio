@@ -1,5 +1,7 @@
 ## Hola!
 
+![An animated gif of the portfolio page](img/header_854x480.gif)
+
 Mi nombre es **Li Francucci**.
 
 Desarrollo sitios web interactivos pensados para artistas de diversos rubros.
