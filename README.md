@@ -1,4 +1,4 @@
-## Holalalala!
+## Hola!
 
 ![An animated gif of the portfolio page](img/header_854x480.gif)
 
