@@ -9,7 +9,7 @@ Desarrollo sitios web interactivos pensados para artistas de diversos rubros.
 Combino _programación creativa, diseño responsivo, y música experimental_ para generar experiencias audiovisuales originales.
 
 
-[**Podés ver mi portfolio aquí**](https://lifrancucci.github.io).
+[**Este es mi sitio web**](https://www.lifrancucci.com).
 
 ## Hello!
 
@@ -19,4 +19,4 @@ I develop interactive web-sites for artists of various fields.
 
 I combine _creative programming, responsive design, and experimental music_ to generate original audiovisual experiences.
 
-[**You can checkout my portfolio here**](https://lifrancucci.github.io).
+[**This is my website**](https://www.lifrancucci.com).
